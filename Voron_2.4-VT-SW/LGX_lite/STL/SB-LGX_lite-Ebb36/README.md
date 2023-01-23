@@ -9,3 +9,4 @@
 *   2x M3x8 BHCS or SHCS
 *   2x M3x30 BHCS or SHCS
 *   1x M2x10 self tapping SHCS
+*   1-2x PG7 spiral gland for CAN wiring
