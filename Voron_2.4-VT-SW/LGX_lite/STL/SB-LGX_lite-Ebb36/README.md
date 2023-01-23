@@ -10,3 +10,4 @@
 *   2x M3x30 BHCS or SHCS
 *   1x M2x10 self tapping SHCS
 *   1-2x PG7 spiral gland for CAN wiring
+*   Optional 2507 fan with 4x M3x6. Tap the fan screw holes with an M3 tap. 
