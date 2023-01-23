@@ -7,3 +7,5 @@ This mod package creates our support for LGX Lite on Stealthburner with features
 BOM will be depending on what modules you need and will assume you have the spec fasteners ready, so head on to the folders to find your version.
 
 Thank you to ByThorsThunder for the work with the longer SB front and hotend mount: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bythorsthunder/Stealthburner_Rapido_Uhf
+
+And thank you to all the testers on the fantastic Voron Discord who gave us a lot of feedback during the development process.
