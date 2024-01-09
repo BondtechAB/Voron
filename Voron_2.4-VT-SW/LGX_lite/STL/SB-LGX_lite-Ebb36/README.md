@@ -1,6 +1,6 @@
 # EBB36 module
 
-![](https://user-images.githubusercontent.com/37978198/214070426-d316af5a-a321-442a-a994-74c1a1a0f4a6.png)
+![image](https://github.com/BondtechAB/Voron/assets/37978198/eeb14425-eced-4afa-bbe8-96fe853cf7af)
 
 ## BOM
 
