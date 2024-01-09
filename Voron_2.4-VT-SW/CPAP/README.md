@@ -12,6 +12,7 @@
 *   2x M2x10 BHCS OR SHCS self tapping
 *   7x M3x4 heatset insert
 *   WS7040 and 15 mm CPAP hose
+*   PC4-M10 Passthrough push fit connector
 *   Some CA glue to attach the bowden passthrough
 
 Thank you to criticaldistance for laying the foundation for the toolhead mod and giving me great ideas for implementation.
