@@ -2,7 +2,8 @@
 
 Core files of the LGX lite CW2 integration
 
-![image](https://user-images.githubusercontent.com/37978198/214076256-6e968e03-bbde-4eff-ae07-ffbd65667951.png)
+![image](https://github.com/BondtechAB/Voron/assets/37978198/fc0a50ec-11dd-4ab4-99dc-9ed1227ad644)
+
 
 
 ## BOM
