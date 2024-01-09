@@ -12,4 +12,4 @@ You can find the elongated SB front for Mosquito Magnum+ here, it's shared and c
 
 For the normal Mosquito you can use the standard SB front or variations thereof.
 
-For use of Mosquito Magnum+ it's highly adviseable to use insulation around all sides of the block. In the directory SB_MOS-PLUS_SOCK you can find moulds for the block top and sides as well as for the convection shield.
+For use of Mosquito Magnum+ it's highly adviseable to use insulation around all sides of the block. In the directory SB_MOS-PLUS_SOCK you can find moulds for the block top and bottom. This may work printed with FDM, but for best results print with a resin printer and coat the resin to seal it in order to not inhibit the silicone curing.
