@@ -4,6 +4,10 @@
 
 ![image](https://github.com/BondtechAB/Voron/assets/37978198/8fca66b4-3364-40cc-86f0-0d5daea85341)
 
+## INSTRUCTIONS
+
+Print in ASA or ABS
+
 ## BOM
 
 *   3x M3x35 BHCS OR SHCS
